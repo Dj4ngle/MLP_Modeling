@@ -1,7 +1,3 @@
-Вот подробный **README** для твоего пайплайна BPA + нейросеть — отдельно для ноутбуков и с ссылкой на фронтенд-галерею. Формат — markdown, чтобы можно было использовать прямо в GitHub.
-
----
-
 # BPA Neural Pipeline: 3D Mesh Radii Prediction & Reconstruction
 
 ## Состав
